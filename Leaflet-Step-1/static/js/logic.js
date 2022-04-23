@@ -99,4 +99,5 @@ d3.json(queryUrl, function(data) {
 
   };
 
-  legend.addTo(myMap)
+  legend.addTo(myMap);
+});
